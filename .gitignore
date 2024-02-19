@@ -1,1 +1,6 @@
 /.vs
+mp4conv.code-workspace
+files/input.mp4
+files/new.mp4
+files/output.ogv
+files/output.webm
