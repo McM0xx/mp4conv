@@ -34,4 +34,5 @@ subprocess.run([
     '-q:v', '6',  # Qualitätslevel für Theora, anpassbar, (0-10) höher ist bessere Q
     '-c:a', 'libvorbis',  # Audio-Codec für OGV
     'output.ogv'
+    
 ])
